@@ -1,0 +1,6 @@
+[
+ {"id":"bone-emergency","number":"01","status":"available","title":"Bone Emergency"},
+ {"id":"sealed-02","number":"02","status":"locked","title":null},
+ {"id":"sealed-03","number":"03","status":"locked","title":null},
+ {"id":"sealed-04","number":"04","status":"locked","title":null}
+]
